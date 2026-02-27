@@ -24,7 +24,7 @@ The workbook(shared via email) contains 2 sheets (Purchase behaviour, Transactio
 
 ## Data Source
 - Forage Job simulation: [Download Here](https://www.theforage.com/simulations/quantium/data-analytics-rqkb)
-- Complete workbook with analysis [download here](https://docs.google.com/spreadsheets/d/1Oze-Br03hHldSoHG1f8FhslT1wfHacLn/edit?usp=drive_link&ouid=118205423473191044596&rtpof=true&sd=true)
+- Complete workbook with analysis [download here](https://www.dropbox.com/scl/fi/ausm439qr2nfx81r8aur6/Forage-Quantium-Job-Simulation.xlsx?rlkey=5xxplugyq8cfa0llnn94az3bg&st=bvsrvkk1&dl=0)
 ## Tools used
 Excel;
   - Power Query for data cleaning.
